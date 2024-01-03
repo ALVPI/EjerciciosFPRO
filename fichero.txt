@@ -1,0 +1,6 @@
+ Esto 
+ es 
+ un ejemplo 
+ de lectura 
+ de 
+ ficheros
